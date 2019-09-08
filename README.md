@@ -8,9 +8,14 @@ This is the official Proof of Moin Hackathon information repository with the lis
 
 
 ## Teams and Projects
-| Team | Project                                                         |
-| ---- | --------------------------------------------------------------- |
-| ODC  | [ODC-StockChain](https://github.com/proofofmoin/ODC-StockChain) |
+| Team         | Project with link                                               | Technology   |
+| ------------ | --------------------------------------------------------------- | ------------ |
+| ODC          | [ODC-StockChain](https://github.com/proofofmoin/ODC-StockChain) | evan.network |
+| KaraSpace    | [tbd](#)                                                        | evan.network |
+| Aviation     | [tbd](#)                                                        | evan.network |
+| Stokr        | [tbd](#)                                                        | evan.network |
+| Magic        | [tbd](#)                                                        | evan.network |
+| Whisper-BEAM | [tbd](#)                                                        | BEAM         |
 
 
 
