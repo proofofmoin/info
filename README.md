@@ -15,7 +15,7 @@ This is the official Proof of Moin Hackathon information repository with the lis
 | ------------ | --------------------------------------------------------------- | ------------ |
 | ODC          | [ODC-StockChain](https://github.com/proofofmoin/ODC-StockChain) | evan.network |
 | KaraSpace    | [tbd](#)                                                        | evan.network |
-| Aviation     | [tbd](#)                                                        | evan.network |
+| Aviation     | [Daedalus](https://github.com/proofofmoin/Daedalus)             | evan.network |
 | Stokr        | [VPN Connection](https://github.com/proofofmoin/DAuth)          | evan.network |
 | Magic        | [ENCQUACG](https://github.com/proofofmoin/ENCQUACG)             | evan.network |
 | Whisper-BEAM | [tbd](#)                                                        | BEAM         |
