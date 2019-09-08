@@ -17,6 +17,7 @@ This is the official Proof of Moin Hackathon information repository with the lis
 
 ## Timetable
 **Sunday, September 8th**
+
 | Time  | Description                               |
 | ----- | ----------------------------------------- |
 | 09:00 | Proof of Nourishment (breakfast & Coffee) |
