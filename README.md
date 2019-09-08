@@ -1,8 +1,22 @@
 # Proof of Moin
+This is the official Proof of Moin Hackathon information repository with the list of the participating teams and their projects.
 
-### Friday, September 6th
-### Saturday, September 7th
-### Sunday, September 8th
+## Content
+* [Teams and Projects](##Teams-and-Projects)
+  
+* [Timetable](##Timetable)
+
+
+## Teams and Projects
+| Team | Project                                                         |
+| ---- | --------------------------------------------------------------- |
+| ODC  | [ODC-StockChain](https://github.com/proofofmoin/ODC-StockChain) |
+
+
+
+
+## Timetable
+**Sunday, September 8th**
 | Time  | Description                               |
 | ----- | ----------------------------------------- |
 | 09:00 | Proof of Nourishment (breakfast & Coffee) |
