@@ -1,26 +1,27 @@
 # Proof of Moin
+
 This is the official Proof of Moin Hackathon information repository with the list of the participating teams and their projects.
 
 ## Content
-* [Teams and Projects](##Teams-and-Projects)
-  
-* [Timetable](##Timetable)
 
+- [Proof of Moin](#proof-of-moin)
+  - [Content](#content)
+  - [Teams and Projects](#teams-and-projects)
+  - [Timetable](#timetable)
 
 ## Teams and Projects
+
 | Team         | Project with link                                               | Technology   |
 | ------------ | --------------------------------------------------------------- | ------------ |
 | ODC          | [ODC-StockChain](https://github.com/proofofmoin/ODC-StockChain) | evan.network |
 | KaraSpace    | [tbd](#)                                                        | evan.network |
 | Aviation     | [tbd](#)                                                        | evan.network |
 | Stokr        | [VPN Connection](https://github.com/proofofmoin/DAuth)          | evan.network |
-| Magic        | [tbd](#)                                                        | evan.network |
+| Magic        | [ENCQUACG](https://github.com/proofofmoin/ENCQUACG)             | evan.network |
 | Whisper-BEAM | [tbd](#)                                                        | BEAM         |
 
-
-
-
 ## Timetable
+
 **Sunday, September 8th**
 
 | Time  | Description                               |
