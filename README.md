@@ -14,7 +14,6 @@ This is the official Proof of Moin Hackathon information repository with the lis
 | Team         | Project with link                                                                   | Technology   |
 | ------------ | ----------------------------------------------------------------------------------- | ------------ |
 | ODC          | [ODC-StockChain](https://github.com/proofofmoin/ODC-StockChain)                     | evan.network |
-| KaraSpace    | [tbd](#)                                                                            | evan.network |
 | Aviation     | [Daedalus](https://github.com/proofofmoin/Daedalus)                                 | evan.network |
 | Stokr        | [VPN Connection](https://github.com/proofofmoin/DAuth)                              | evan.network |
 | Magic        | [ENCQUACG](https://github.com/proofofmoin/ENCQUACG)                                 | evan.network |
